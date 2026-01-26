@@ -1,47 +1,53 @@
 #include "../include/lecturePPM.h"
 #include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
+#include <ctype.h>
 
 infoPPM* informations_PPM(FILE* f) {
     char magic[3];
     int largeur, hauteur, couleurMax;
 
-    // Lecture du Magic Number
+    // 1. Lecture du Magic Number
     if (fscanf(f, "%2s", magic) != 1 || strcmp(magic, "P6") != 0) {
-        fprintf(stderr, "Erreur : Ce n'est pas un fichier P6 binaire\n");
+        fprintf(stderr, "Erreur : Fichier P6 invalide\n");
         return NULL;
     }
 
-    // Sauter les commentaires et lire Largeur, Hauteur, CouleurMax
-    // On utilise une boucle pour ignorer tout ce qui commence par '#'
-    int c = fgetc(f);
-    while (c == '#' || c == ' ' || c == '\n' || c == '\r' || c == '\t') {
-        if (c == '#') {
-            while (fgetc(f) != '\n'); // Sauter la ligne de commentaire
+    // 2. Sauter les commentaires et espaces proprement
+    int c;
+    while ((c = fgetc(f)) != EOF) {
+        if (c == '#') { 
+            while ((c = fgetc(f)) != '\n' && c != EOF);
+        } else if (!isspace(c)) { 
+            ungetc(c, f); // On remet le chiffre trouvé
+            break;
         }
-        c = fgetc(f);
     }
-    ungetc(c, f); // On remet le premier chiffre dans le flux
 
+    // 3. Lecture Dimensions
     if (fscanf(f, "%d %d %d", &largeur, &hauteur, &couleurMax) != 3) {
-        fprintf(stderr, "Erreur lors de la lecture des dimensions\n");
         return NULL;
     }
 
-    // Sauter UN SEUL caractère blanc (souvent '\n') juste avant les données binaires
-    fgetc(f);
+    // 4. CORRECTION CRITIQUE DU SAUT DE LIGNE
+    // On doit consommer exactement un caractère whitespace après le 255.
+    c = fgetc(f);
+    if (c == '\r') { // Cas Windows rare mais possible
+        c = fgetc(f);
+        if (c != '\n') ungetc(c, f);
+    }
+    // Si c'est \n ou espace, c'est consommé et on est calé au byte près.
 
-    // Allocation et lecture
+    // 5. Lecture des données
     infoPPM* p = malloc(sizeof(infoPPM));
     p->largeur = largeur;
     p->hauteur = hauteur;
     p->couleurMax = couleurMax;
-
-    // Allocation en tableau 1D (plus propre avec fread)
     p->pixels = malloc(largeur * hauteur * sizeof(pixel));
     
     if (fread(p->pixels, sizeof(pixel), largeur * hauteur, f) != (size_t)(largeur * hauteur)) {
-        fprintf(stderr, "Erreur : Données de pixels incomplètes\n");
+        fprintf(stderr, "Erreur de lecture des pixels\n");
         free(p->pixels);
         free(p);
         return NULL;

@@ -6,197 +6,144 @@
 #include <string.h>
 #include <stdio.h>
 
-// Fonction robuste pour lire un entier (ignore les lignes vides)
-void lire_entree_entier(stack s) {
-    char buf[256];
+
+void lire_entier(stack s) {
+    char buf[100];
     int val;
-    int succes = 0;
-    fprintf(stderr, ">> Entrez un entier : ");
-    while (!succes) {
-        if (fgets(buf, 256, stdin) == NULL) return; // Fin de fichier
-        if (buf[0] == '\n' || buf[0] == '\r') continue; // Ignore lignes vides
-        
+    printf("Entrez un entier : "); 
+    while (1) {
+        if (!fgets(buf, 100, stdin)) return;
         if (sscanf(buf, "%d", &val) == 1) {
             push(s, val);
-            succes = 1;
-        } else {
-            fprintf(stderr, ">> Format invalide, reessayez un entier : ");
+            break;
         }
     }
 }
 
-// Fonction robuste pour lire un caractère
-void lire_entree_char(stack s) {
-    char buf[256];
-    char val;
-    fprintf(stderr, ">> Entrez un caractere : ");
-    if (fgets(buf, 256, stdin) != NULL) {
-        if (sscanf(buf, "%c", &val) == 1) {
-            push(s, (int)val);
-        }
+void lire_char(stack s) {
+    char buf[100];
+    char c;
+    printf("Entrez un caractere : ");
+    if (fgets(buf, 100, stdin) && sscanf(buf, "%c", &c) == 1) {
+        push(s, (int)c);
     }
-}
-
-// Fonction de debug 
-void debug_state(int x, int y, int d, int b, int pile_sz, couleur c, int tentatives) {
-    const char* dirs[] = {"EST", "SUD", "OUEST", "NORD"};
-    const char* bords[] = {"BABORD", "TRIBORD"};
-    fprintf(stderr, "[DBG] Pos(%3d,%3d) | %-5s | %-7s | Pile:%d | Coul:%2d | Try:%d\n", 
-            x, y, dirs[d], bords[b], pile_sz, c, tentatives);
 }
 
 int main(int argc, char* argv[]) {
-    if (argc != 2) {             
-        printf("Usage: %s <file>\n", argv[0]);   
-        exit(1); 
-    }
+    if (argc != 2) { printf("Usage: %s <file>\n", argv[0]); exit(1); }
 
     FILE* file = fopen(argv[1], "r");
-    if (file == NULL) { perror("[fopen]"); exit(1); }
+    if (!file) { perror("Erreur ouverture"); exit(1); }
 
     infoPPM* info = informations_PPM(file);
-    stack s = new();
-    int hauteur = info->hauteur, largeur = info->largeur;
-    
-    int** traite = malloc(hauteur * sizeof(int*));
-    for (int i = 0; i < hauteur; i++) traite[i] = calloc(largeur, sizeof(int));
+    if (!info) exit(1);
 
+    stack s = new();
+    int h = info->hauteur, l = info->largeur;
+    
+    // Matrice de traitement
+    int** traite = malloc(h * sizeof(int*));
+    for (int i = 0; i < h; i++) traite[i] = calloc(l, sizeof(int));
+
+    // État initial
     direction d = EST;
     bord b = BABORD;
     
-    int x_cur = 0, y_cur = 0;
+    int x = 0, y = 0; // position courante
     couleur c_cur = nom_couleur(info->pixels[0]);
+    couleur c_next;
     
     // Initialisation premier bloc
-    traitement(info, c_cur, x_cur, y_cur, traite);
-    
-    // Premier mouvement
-    Point p_sortie = pixel_suivant(traite, d, b, hauteur, largeur);
-    int x_next = (p_sortie.x + (d == EST) - (d == OUEST) + largeur) % largeur;
-    int y_next = (p_sortie.y + (d == SUD) - (d == NORD) + hauteur) % hauteur;
-    couleur c_next = nom_couleur(info->pixels[y_next * largeur + x_next]);
+    traitement(info, c_cur, x, y, traite);
+    Point p_sortie = pixel_suivant(traite, d, b, h, l);
 
-    couleur c_prev = c_cur;
-    int bloquants_consecutifs = 0;
-    int glissement_blanc = 0; 
-    Point premier_blanc = {-1, -1}; 
+    int bloquants = 0;
+    int gliss_blanc = 0;
 
-    while (bloquants_consecutifs < 8) { 
-        debug_state(x_cur, y_cur, d, b, stack_size(s), c_prev, bloquants_consecutifs);
+    while (bloquants < 8) {
+        int next_x = p_sortie.x + (d == EST) - (d == OUEST);
+        int next_y = p_sortie.y + (d == SUD) - (d == NORD);
 
-        // MUR (Noir / autre)
-        if (c_next == autre) {
-            bloquants_consecutifs++;
-            
-            // Ordre spec : 1. Inverse Bord, 2. Tourne Direction
-            if (bloquants_consecutifs % 2 == 1) b = changer_bord(b);
+        int est_mur = 0;
+        if (next_x < 0 || next_x >= l || next_y < 0 || next_y >= h) {
+            est_mur = 1;
+            c_next = autre;
+        } else {
+            c_next = nom_couleur(info->pixels[next_y * l + next_x]);
+            if (c_next == autre) est_mur = 1;
+            if (!gliss_blanc && c_next == c_cur) est_mur = 1;
+        }
+
+        if (est_mur) {
+            bloquants++;
+            if (bloquants % 2 == 1) b = changer_bord(b);
             else d = changer_direction(d);
             
-            // Si on vient du blanc, on pivote depuis le premier blanc rencontré
-            if (glissement_blanc) p_sortie = premier_blanc;
-            else p_sortie = pixel_suivant(traite, d, b, hauteur, largeur);
-
-            x_next = (p_sortie.x + (d == EST) - (d == OUEST) + largeur) % largeur;
-            y_next = (p_sortie.y + (d == SUD) - (d == NORD) + hauteur) % hauteur;
-            c_next = nom_couleur(info->pixels[y_next * largeur + x_next]);
-            continue; 
-        }
-
-        // BLANC (Passante)
-        if (estPassante(info->pixels[y_next * largeur + x_next])) {
-            bloquants_consecutifs = 0; 
-            
-            if (!glissement_blanc) {
-                glissement_blanc = 1;
-                premier_blanc.x = x_next;
-                premier_blanc.y = y_next;
+            if (gliss_blanc) {
+                p_sortie.x = x; 
+                p_sortie.y = y;
+            } else {
+                p_sortie = pixel_suivant(traite, d, b, h, l);
             }
+        } 
+        else if (estPassante(info->pixels[next_y * l + next_x])) {
+            bloquants = 0;
+            if (!gliss_blanc) gliss_blanc = 1;
             
-            x_cur = x_next; y_cur = y_next; // Visuel
+            x = next_x; y = next_y;   
+            c_cur = c_next;        
+            p_sortie.x = x; p_sortie.y = y; 
+        } 
+        else {
+            bloquants = 0;
             
-            // On glisse : le pivot devient le pixel blanc actuel pour avancer
-            p_sortie.x = x_next;
-            p_sortie.y = y_next;
-
-            x_next = (p_sortie.x + (d == EST) - (d == OUEST) + largeur) % largeur;
-            y_next = (p_sortie.y + (d == SUD) - (d == NORD) + hauteur) % hauteur;
-            c_next = nom_couleur(info->pixels[y_next * largeur + x_next]);
-            continue;
-        }
-
-        // COULEUR CODANTE
-        bloquants_consecutifs = 0;
-
-        if (!glissement_blanc) {
-            int dif_c = dif_couleur(c_prev, c_next);
-            int dif_l = dif_luminosite(c_prev, c_next);
-            int a;
-             switch(dif_c) {
-                    case 0:
-                        if (dif_l == 1) push(s, taille_bloc(traite, largeur, hauteur)); 
-                        if (dif_l == 2 && stack_size(s) >= 1) pop(s);
-                    break;
-                    case 1:
-                        if (stack_size(s) >= 2) {
-                            if (dif_l == 0) somme(s);
-                            if (dif_l == 1) difference(s);
-                            if (dif_l == 2) produit(s);
-                        }
-                    break;
-                    case 2:
-                        if (stack_size(s) >= 1 && dif_l == 2) zero(s);
-                        if (stack_size(s) >= 2) {
-                            if (dif_l == 0) division(s);
-                            if (dif_l == 1) reste(s);
-                        }
-                    break;
-                    case 3:
-                        if (dif_l == 0 && stack_size(s) >= 2) plusgrand(s);
-                        if (stack_size(s) >= 1) {
-                            a = peek(s); pop(s); 
-                            if (dif_l == 1) {
-                                int rot = (a % 4 + 4) % 4; 
-                                for (int i = 0; i < rot; i++) d = changer_direction(d); 
-                            }
-                            if (dif_l == 2) { 
-                                int bas = (a % 2 + 2) % 2;
-                                for (int i = 0; i < bas; i++) b = changer_bord(b);
-                            }
-                        } 
-                    break;
-                    case 4:
-                        if (dif_l == 0 && stack_size(s) >= 1) duplique(s);
-                        if (dif_l == 1 && stack_size(s) >= 2) tourne(s);
-                        if (dif_l == 2) lire_entree_entier(s); 
-                    break;
-                    case 5:
-                        if (dif_l == 0) lire_entree_char(s);
-                        if (stack_size(s) >= 1) {
-                            a = peek(s); pop(s);
-                            if (dif_l == 1) printf("%d", a); 
-                            if (dif_l == 2) printf("%c", (char)a); 
-                            fflush(stdout); // force l'affichage
-                        }
-                    break;
+            if (!gliss_blanc) {
+                int dc = dif_couleur(c_cur, c_next);
+                int dl = dif_luminosite(c_cur, c_next);
+                if (dc==0 && dl==1) push(s, taille_bloc(traite, l, h));
+                else if (dc==0 && dl==2 && stack_size(s)>=1) pop(s);
+                else if (dc==1 && stack_size(s)>=2) {
+                    if (dl==0) somme(s); else if (dl==1) difference(s); else if (dl==2) produit(s);
                 }
+                else if (dc==2) {
+                    if (stack_size(s)>=1 && dl==2) zero(s);
+                    else if (stack_size(s)>=2) { if (dl==0) division(s); else if (dl==1) reste(s); }
+                }
+                else if (dc==3) {
+                    if (dl==0 && stack_size(s)>=2) plusgrand(s);
+                    else if (stack_size(s)>=1) {
+                        int val = peek(s); pop(s);
+                        if (dl==1) { int n=(val%4+4)%4; for(int k=0;k<n;k++) d=changer_direction(d); }
+                        else if (dl==2) { int n=(val%2+2)%2; for(int k=0;k<n;k++) b=changer_bord(b); }
+                    }
+                }
+                else if (dc==4) {
+                    if (dl==0 && stack_size(s)>=1) duplique(s);
+                    else if (dl==1 && stack_size(s)>=2) tourne(s);
+                    else if (dl==2) lire_entier(s);
+                }
+                else if (dc==5) {
+                    if (dl==0) lire_char(s);
+                    else if (stack_size(s)>=1) {
+                        int val = peek(s); pop(s);
+                        if (dl==1) printf("%d", val);
+                        else if (dl==2) printf("%c", (char)val);
+                        fflush(stdout);
+                    }
+                }
+            }
+
+            gliss_blanc = 0;
+            x = next_x; y = next_y;
+            c_cur = c_next;
+
+            for(int i=0; i<h; i++) memset(traite[i], 0, l*sizeof(int));
+            traitement(info, c_cur, x, y, traite);
+            p_sortie = pixel_suivant(traite, d, b, h, l);
         }
-        
-        // Transition vers le nouveau bloc
-        glissement_blanc = 0;
-        c_prev = c_next;
-        x_cur = x_next; y_cur = y_next;
-
-        for (int i = 0; i < hauteur; i++) memset(traite[i], 0, largeur * sizeof(int));
-        traitement(info, c_next, x_next, y_next, traite);
-
-        p_sortie = pixel_suivant(traite, d, b, hauteur, largeur);
-        x_next = (p_sortie.x + (d == EST) - (d == OUEST) + largeur) % largeur;
-        y_next = (p_sortie.y + (d == SUD) - (d == NORD) + hauteur) % hauteur;
-        c_next = nom_couleur(info->pixels[y_next * largeur + x_next]);
     }
 
-    // Libération
-    for (int i = 0; i < hauteur; i++) free(traite[i]);
+    for(int i=0; i<h; i++) free(traite[i]);
     free(traite);
     free(info->pixels);
     free(info);

@@ -1,0 +1,2002 @@
+[STEP    1] Pos( 1, 0) | RGB(128,  0,  0) -> R_Fonce    | Dir:> BAB | Bloq:0 | PileSize:0
+[STEP    2] Pos( 2, 0) | RGB(255,128,128) -> R_Clair    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP    3] Pos( 3, 0) | RGB(255,  0,  0) -> R_Norm     | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP    4] Pos( 4, 0) | RGB(255,255,128) -> J_Clair    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP    5] Pos( 5, 0) | RGB(  0,128,  0) -> V_Fonce    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP    6] Pos( 6, 0) | RGB(128,  0,  0) -> R_Fonce    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP    7] Pos( 7, 0) | RGB(255,  0,255) -> M_Norm     | Dir:> BAB | Bloq:0 | PileSize:2
+[STEP    8] Pos( 8, 0) | RGB(128,255,255) -> C_Clair    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP    9] Pos( 9, 0) | RGB(  0,255,255) -> C_Norm     | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP   10] Pos(10, 0) | RGB(  0,128,128) -> C_Fonce    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP   11] Pos(11, 0) | RGB(255,255,128) -> J_Clair    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP   12] Pos(12, 0) | RGB(128,  0,  0) -> R_Fonce    | Dir:> BAB | Bloq:0 | PileSize:1
+[STEP   13] Pos(13, 0) | RGB(  0,  0,255) -> B_Norm     | Dir:> BAB | Bloq:0 | PileSize:1
+>> ATTENTE SAISIE CLAVIER (Entier) : >> [OK] 1 ajouté à la pile.
+[STEP   14] Pos(14, 0) | RGB(  0,255,  0) -> V_Norm     | Dir:> BAB | Bloq:0 | PileSize:2
+[STEP   15] Pos(15, 0) | RGB(  0,128,  0) -> V_Fonce    | Dir:> BAB | Bloq:0 | PileSize:2
+[STEP   16] Pos(16, 0) | RGB(128,255,128) -> V_Clair    | Dir:> BAB | Bloq:0 | PileSize:2
+[STEP   17] Pos(17, 0) | RGB(255,  0,  0) -> R_Norm     | Dir:> BAB | Bloq:0 | PileSize:2
+[STEP   18] Pos(18, 0) | RGB(  0,  0,255) -> B_Norm     | Dir:> BAB | Bloq:0 | PileSize:2
+[STEP   19] Pos(19, 0) | RGB(  0,  0,128) -> B_Fonce    | Dir:> BAB | Bloq:0 | PileSize:3
+[STEP   20] Pos(20, 0) | RGB(128,128,255) -> B_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   21] Pos(21, 0) | RGB(  0,255,  0) -> V_Norm     | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   22] Pos(22, 0) | RGB(128,128,  0) -> J_Fonce    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   23] Pos(28, 0) | RGB(255,255,128) -> J_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   24] Pos(29, 0) | RGB(128,  0,  0) -> R_Fonce    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   25] Pos(30, 0) | RGB(255,128,255) -> M_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   26] Pos(31, 0) | RGB(255,128,255) -> M_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   27] Pos(32, 0) | RGB(255,128,255) -> M_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   28] Pos(33, 0) | RGB(255,128,255) -> M_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   29] Pos(34, 0) | RGB(255,128,255) -> M_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   30] Pos(35, 0) | RGB(255,128,255) -> M_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   31] Pos(36, 0) | RGB(255,  0,255) -> M_Norm     | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   32] Pos(37, 0) | RGB(128,128,255) -> B_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   33] Pos(38, 0) | RGB(255,128,255) -> M_Clair    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   34] Pos(39, 0) | RGB(  0,  0,255) -> B_Norm     | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   35] Pos(40, 0) | RGB(  0,  0,128) -> B_Fonce    | Dir:> BAB | Bloq:0 | PileSize:4
+[STEP   36] Pos(42, 0) | RGB(115, 81,255) -> NOIR/AUTRE | Dir:> BAB | Bloq:0 | PileSize:5
+[STEP   37] Pos(42, 3) | RGB(247, 94,160) -> NOIR/AUTRE | Dir:> TRI | Bloq:1 | PileSize:5
+[STEP   38] Pos(41, 4) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:2 | PileSize:5
+[STEP   39] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   40] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   41] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   42] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   43] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   44] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   45] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   46] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   47] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   48] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   49] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   50] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   51] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   52] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   53] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   54] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   55] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   56] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   57] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   58] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   59] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   60] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   61] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   62] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   63] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   64] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   65] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   66] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   67] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   68] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   69] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   70] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   71] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   72] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   73] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   74] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   75] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   76] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   77] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   78] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   79] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   80] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   81] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   82] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   83] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   84] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   85] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   86] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   87] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   88] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   89] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   90] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   91] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   92] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   93] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   94] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   95] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP   96] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP   97] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP   98] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP   99] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  100] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  101] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  102] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  103] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  104] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  105] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  106] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  107] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  108] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  109] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  110] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  111] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  112] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  113] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  114] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  115] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  116] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  117] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  118] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  119] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  120] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  121] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  122] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  123] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  124] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  125] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  126] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  127] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  128] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  129] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  130] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  131] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  132] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  133] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  134] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  135] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  136] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  137] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  138] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  139] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  140] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  141] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  142] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  143] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  144] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  145] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  146] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  147] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  148] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  149] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  150] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  151] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  152] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  153] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  154] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  155] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  156] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  157] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  158] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  159] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  160] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  161] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  162] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  163] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  164] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  165] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  166] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  167] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  168] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  169] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  170] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  171] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  172] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  173] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  174] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  175] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  176] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  177] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  178] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  179] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  180] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  181] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  182] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  183] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  184] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  185] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  186] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  187] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  188] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  189] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  190] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  191] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  192] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  193] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  194] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  195] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  196] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  197] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  198] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  199] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  200] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  201] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  202] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  203] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  204] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  205] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  206] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  207] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  208] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  209] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  210] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  211] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  212] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  213] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  214] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  215] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  216] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  217] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  218] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  219] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  220] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  221] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  222] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  223] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  224] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  225] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  226] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  227] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  228] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  229] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  230] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  231] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  232] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  233] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  234] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  235] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  236] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  237] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  238] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  239] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  240] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  241] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  242] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  243] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  244] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  245] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  246] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  247] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  248] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  249] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  250] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  251] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  252] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  253] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  254] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  255] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  256] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  257] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  258] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  259] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  260] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  261] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  262] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  263] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  264] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  265] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  266] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  267] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  268] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  269] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  270] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  271] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  272] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  273] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  274] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  275] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  276] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  277] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  278] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  279] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  280] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  281] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  282] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  283] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  284] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  285] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  286] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  287] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  288] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  289] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  290] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  291] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  292] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  293] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  294] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  295] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  296] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  297] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  298] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  299] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  300] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  301] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  302] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  303] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  304] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  305] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  306] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  307] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  308] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  309] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  310] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  311] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  312] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  313] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  314] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  315] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  316] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  317] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  318] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  319] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  320] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  321] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  322] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  323] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  324] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  325] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  326] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  327] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  328] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  329] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  330] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  331] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  332] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  333] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  334] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  335] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  336] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  337] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  338] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  339] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  340] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  341] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  342] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  343] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  344] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  345] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  346] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  347] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  348] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  349] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  350] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  351] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  352] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  353] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  354] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  355] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  356] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  357] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  358] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  359] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  360] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  361] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  362] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  363] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  364] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  365] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  366] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  367] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  368] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  369] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  370] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  371] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  372] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  373] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  374] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  375] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  376] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  377] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  378] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  379] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  380] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  381] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  382] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  383] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  384] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  385] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  386] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  387] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  388] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  389] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  390] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  391] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  392] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  393] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  394] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  395] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  396] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  397] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  398] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  399] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  400] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  401] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  402] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  403] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  404] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  405] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  406] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  407] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  408] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  409] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  410] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  411] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  412] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  413] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  414] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  415] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  416] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  417] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  418] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  419] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  420] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  421] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  422] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  423] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  424] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  425] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  426] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  427] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  428] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  429] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  430] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  431] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  432] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  433] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  434] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  435] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  436] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  437] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  438] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  439] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  440] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  441] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  442] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  443] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  444] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  445] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  446] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  447] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  448] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  449] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  450] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  451] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  452] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  453] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  454] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  455] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  456] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  457] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  458] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  459] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  460] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  461] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  462] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  463] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  464] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  465] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  466] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  467] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  468] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  469] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  470] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  471] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  472] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  473] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  474] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  475] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  476] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  477] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  478] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  479] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  480] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  481] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  482] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  483] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  484] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  485] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  486] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  487] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  488] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  489] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  490] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  491] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  492] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  493] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  494] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  495] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  496] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  497] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  498] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  499] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  500] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  501] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  502] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  503] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  504] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  505] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  506] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  507] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  508] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  509] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  510] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  511] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  512] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  513] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  514] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  515] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  516] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  517] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  518] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  519] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  520] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  521] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  522] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  523] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  524] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  525] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  526] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  527] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  528] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  529] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  530] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  531] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  532] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  533] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  534] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  535] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  536] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  537] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  538] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  539] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  540] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  541] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  542] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  543] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  544] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  545] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  546] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  547] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  548] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  549] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  550] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  551] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  552] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  553] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  554] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  555] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  556] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  557] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  558] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  559] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  560] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  561] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  562] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  563] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  564] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  565] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  566] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  567] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  568] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  569] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  570] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  571] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  572] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  573] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  574] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  575] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  576] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  577] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  578] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  579] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  580] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  581] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  582] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  583] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  584] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  585] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  586] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  587] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  588] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  589] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  590] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  591] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  592] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  593] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  594] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  595] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  596] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  597] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  598] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  599] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  600] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  601] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  602] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  603] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  604] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  605] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  606] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  607] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  608] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  609] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  610] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  611] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  612] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  613] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  614] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  615] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  616] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  617] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  618] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  619] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  620] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  621] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  622] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  623] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  624] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  625] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  626] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  627] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  628] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  629] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  630] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  631] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  632] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  633] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  634] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  635] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  636] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  637] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  638] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  639] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  640] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  641] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  642] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  643] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  644] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  645] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  646] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  647] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  648] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  649] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  650] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  651] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  652] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  653] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  654] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  655] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  656] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  657] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  658] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  659] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  660] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  661] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  662] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  663] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  664] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  665] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  666] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  667] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  668] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  669] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  670] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  671] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  672] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  673] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  674] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  675] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  676] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  677] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  678] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  679] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  680] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  681] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  682] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  683] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  684] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  685] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  686] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  687] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  688] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  689] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  690] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  691] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  692] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  693] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  694] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  695] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  696] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  697] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  698] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  699] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  700] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  701] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  702] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  703] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  704] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  705] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  706] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  707] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  708] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  709] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  710] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  711] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  712] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  713] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  714] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  715] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  716] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  717] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  718] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  719] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  720] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  721] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  722] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  723] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  724] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  725] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  726] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  727] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  728] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  729] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  730] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  731] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  732] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  733] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  734] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  735] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  736] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  737] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  738] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  739] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  740] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  741] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  742] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  743] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  744] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  745] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  746] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  747] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  748] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  749] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  750] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  751] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  752] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  753] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  754] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  755] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  756] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  757] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  758] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  759] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  760] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  761] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  762] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  763] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  764] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  765] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  766] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  767] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  768] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  769] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  770] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  771] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  772] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  773] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  774] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  775] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  776] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  777] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  778] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  779] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  780] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  781] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  782] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  783] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  784] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  785] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  786] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  787] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  788] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  789] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  790] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  791] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  792] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  793] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  794] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  795] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  796] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  797] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  798] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  799] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  800] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  801] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  802] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  803] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  804] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  805] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  806] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  807] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  808] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  809] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  810] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  811] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  812] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  813] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  814] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  815] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  816] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  817] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  818] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  819] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  820] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  821] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  822] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  823] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  824] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  825] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  826] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  827] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  828] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  829] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  830] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  831] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  832] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  833] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  834] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  835] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  836] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  837] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  838] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  839] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  840] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  841] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  842] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  843] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  844] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  845] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  846] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  847] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  848] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  849] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  850] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  851] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  852] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  853] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  854] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  855] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  856] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  857] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  858] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  859] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  860] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  861] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  862] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  863] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  864] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  865] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  866] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  867] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  868] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  869] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  870] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  871] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  872] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  873] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  874] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  875] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  876] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  877] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  878] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  879] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  880] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  881] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  882] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  883] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  884] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  885] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  886] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  887] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  888] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  889] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  890] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  891] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  892] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  893] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  894] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  895] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  896] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  897] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  898] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  899] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  900] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  901] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  902] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  903] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  904] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  905] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  906] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  907] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  908] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  909] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  910] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  911] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  912] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  913] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  914] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  915] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  916] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  917] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  918] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  919] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  920] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  921] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  922] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  923] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  924] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  925] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  926] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  927] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  928] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  929] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  930] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  931] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  932] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  933] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  934] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  935] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  936] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  937] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  938] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  939] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  940] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  941] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  942] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  943] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  944] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  945] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  946] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  947] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  948] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  949] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  950] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  951] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  952] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  953] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  954] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  955] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  956] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  957] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  958] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  959] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  960] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  961] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  962] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  963] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  964] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  965] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  966] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  967] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  968] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  969] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  970] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  971] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  972] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  973] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  974] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  975] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  976] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  977] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  978] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  979] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  980] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  981] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  982] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  983] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  984] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  985] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  986] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  987] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  988] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  989] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  990] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  991] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  992] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  993] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  994] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  995] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP  996] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP  997] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP  998] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP  999] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1000] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1001] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1002] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1003] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1004] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1005] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1006] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1007] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1008] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1009] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1010] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1011] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1012] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1013] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1014] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1015] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1016] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1017] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1018] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1019] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1020] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1021] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1022] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1023] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1024] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1025] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1026] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1027] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1028] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1029] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1030] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1031] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1032] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1033] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1034] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1035] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1036] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1037] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1038] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1039] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1040] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1041] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1042] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1043] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1044] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1045] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1046] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1047] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1048] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1049] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1050] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1051] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1052] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1053] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1054] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1055] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1056] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1057] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1058] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1059] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1060] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1061] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1062] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1063] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1064] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1065] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1066] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1067] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1068] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1069] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1070] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1071] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1072] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1073] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1074] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1075] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1076] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1077] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1078] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1079] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1080] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1081] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1082] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1083] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1084] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1085] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1086] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1087] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1088] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1089] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1090] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1091] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1092] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1093] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1094] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1095] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1096] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1097] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1098] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1099] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1100] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1101] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1102] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1103] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1104] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1105] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1106] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1107] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1108] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1109] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1110] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1111] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1112] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1113] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1114] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1115] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1116] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1117] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1118] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1119] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1120] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1121] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1122] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1123] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1124] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1125] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1126] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1127] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1128] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1129] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1130] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1131] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1132] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1133] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1134] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1135] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1136] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1137] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1138] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1139] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1140] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1141] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1142] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1143] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1144] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1145] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1146] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1147] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1148] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1149] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1150] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1151] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1152] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1153] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1154] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1155] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1156] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1157] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1158] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1159] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1160] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1161] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1162] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1163] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1164] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1165] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1166] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1167] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1168] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1169] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1170] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1171] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1172] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1173] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1174] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1175] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1176] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1177] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1178] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1179] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1180] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1181] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1182] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1183] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1184] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1185] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1186] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1187] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1188] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1189] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1190] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1191] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1192] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1193] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1194] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1195] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1196] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1197] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1198] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1199] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1200] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1201] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1202] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1203] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1204] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1205] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1206] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1207] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1208] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1209] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1210] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1211] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1212] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1213] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1214] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1215] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1216] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1217] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1218] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1219] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1220] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1221] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1222] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1223] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1224] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1225] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1226] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1227] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1228] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1229] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1230] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1231] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1232] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1233] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1234] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1235] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1236] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1237] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1238] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1239] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1240] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1241] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1242] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1243] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1244] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1245] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1246] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1247] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1248] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1249] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1250] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1251] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1252] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1253] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1254] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1255] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1256] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1257] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1258] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1259] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1260] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1261] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1262] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1263] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1264] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1265] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1266] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1267] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1268] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1269] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1270] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1271] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1272] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1273] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1274] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1275] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1276] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1277] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1278] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1279] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1280] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1281] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1282] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1283] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1284] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1285] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1286] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1287] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1288] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1289] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1290] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1291] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1292] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1293] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1294] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1295] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1296] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1297] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1298] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1299] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1300] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1301] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1302] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1303] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1304] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1305] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1306] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1307] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1308] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1309] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1310] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1311] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1312] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1313] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1314] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1315] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1316] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1317] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1318] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1319] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1320] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1321] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1322] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1323] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1324] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1325] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1326] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1327] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1328] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1329] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1330] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1331] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1332] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1333] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1334] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1335] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1336] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1337] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1338] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1339] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1340] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1341] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1342] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1343] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1344] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1345] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1346] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1347] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1348] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1349] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1350] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1351] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1352] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1353] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1354] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1355] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1356] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1357] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1358] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1359] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1360] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1361] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1362] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1363] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1364] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1365] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1366] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1367] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1368] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1369] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1370] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1371] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1372] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1373] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1374] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1375] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1376] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1377] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1378] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1379] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1380] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1381] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1382] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1383] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1384] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1385] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1386] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1387] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1388] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1389] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1390] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1391] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1392] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1393] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1394] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1395] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1396] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1397] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1398] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1399] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1400] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1401] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1402] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1403] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1404] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1405] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1406] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1407] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1408] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1409] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1410] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1411] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1412] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1413] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1414] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1415] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1416] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1417] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1418] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1419] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1420] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1421] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1422] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1423] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1424] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1425] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1426] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1427] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1428] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1429] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1430] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1431] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1432] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1433] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1434] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1435] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1436] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1437] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1438] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1439] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1440] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1441] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1442] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1443] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1444] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1445] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1446] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1447] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1448] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1449] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1450] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1451] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1452] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1453] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1454] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1455] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1456] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1457] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1458] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1459] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1460] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1461] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1462] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1463] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1464] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1465] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1466] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1467] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1468] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1469] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1470] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1471] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1472] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1473] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1474] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1475] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1476] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1477] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1478] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1479] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1480] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1481] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1482] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1483] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1484] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1485] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1486] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1487] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1488] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1489] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1490] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1491] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1492] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1493] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1494] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1495] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1496] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1497] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1498] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1499] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1500] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1501] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1502] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1503] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1504] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1505] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1506] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1507] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1508] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1509] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1510] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1511] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1512] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1513] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1514] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1515] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1516] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1517] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1518] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1519] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1520] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1521] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1522] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1523] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1524] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1525] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1526] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1527] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1528] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1529] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1530] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1531] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1532] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1533] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1534] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1535] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1536] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1537] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1538] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1539] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1540] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1541] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1542] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1543] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1544] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1545] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1546] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1547] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1548] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1549] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1550] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1551] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1552] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1553] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1554] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1555] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1556] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1557] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1558] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1559] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1560] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1561] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1562] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1563] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1564] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1565] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1566] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1567] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1568] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1569] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1570] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1571] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1572] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1573] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1574] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1575] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1576] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1577] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1578] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1579] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1580] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1581] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1582] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1583] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1584] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1585] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1586] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1587] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1588] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1589] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1590] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1591] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1592] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1593] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1594] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1595] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1596] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1597] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1598] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1599] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1600] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1601] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1602] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1603] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1604] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1605] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1606] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1607] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1608] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1609] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1610] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1611] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1612] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1613] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1614] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1615] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1616] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1617] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1618] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1619] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1620] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1621] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1622] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1623] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1624] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1625] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1626] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1627] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1628] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1629] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1630] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1631] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1632] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1633] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1634] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1635] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1636] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1637] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1638] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1639] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1640] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1641] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1642] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1643] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1644] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1645] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1646] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1647] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1648] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1649] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1650] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1651] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1652] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1653] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1654] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1655] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1656] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1657] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1658] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1659] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1660] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1661] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1662] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1663] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1664] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1665] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1666] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1667] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1668] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1669] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1670] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1671] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1672] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1673] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1674] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1675] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1676] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1677] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1678] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1679] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1680] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1681] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1682] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1683] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1684] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1685] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1686] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1687] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1688] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1689] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1690] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1691] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1692] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1693] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1694] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1695] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1696] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1697] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1698] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1699] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1700] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1701] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1702] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1703] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1704] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1705] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1706] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1707] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1708] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1709] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1710] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1711] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1712] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1713] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1714] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1715] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1716] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1717] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1718] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1719] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1720] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1721] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1722] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1723] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1724] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1725] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1726] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1727] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1728] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1729] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1730] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1731] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1732] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1733] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1734] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1735] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1736] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1737] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1738] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1739] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1740] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1741] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1742] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1743] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1744] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1745] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1746] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1747] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1748] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1749] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1750] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1751] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1752] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1753] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1754] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1755] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1756] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1757] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1758] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1759] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1760] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1761] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1762] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1763] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1764] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1765] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1766] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1767] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1768] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1769] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1770] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1771] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1772] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1773] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1774] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1775] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1776] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1777] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1778] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1779] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1780] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1781] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1782] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1783] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1784] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1785] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1786] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1787] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1788] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1789] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1790] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1791] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1792] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1793] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1794] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1795] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1796] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1797] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1798] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1799] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1800] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1801] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1802] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1803] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1804] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1805] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1806] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1807] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1808] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1809] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1810] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1811] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1812] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1813] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1814] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1815] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1816] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1817] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1818] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1819] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1820] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1821] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1822] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1823] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1824] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1825] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1826] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1827] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1828] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1829] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1830] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1831] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1832] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1833] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1834] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1835] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1836] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1837] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1838] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1839] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1840] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1841] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1842] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1843] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1844] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1845] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1846] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1847] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1848] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1849] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1850] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1851] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1852] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1853] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1854] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1855] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1856] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1857] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1858] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1859] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1860] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1861] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1862] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1863] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1864] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1865] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1866] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1867] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1868] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1869] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1870] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1871] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1872] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1873] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1874] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1875] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1876] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1877] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1878] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1879] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1880] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1881] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1882] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1883] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1884] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1885] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1886] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1887] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1888] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1889] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1890] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1891] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1892] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1893] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1894] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1895] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1896] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1897] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1898] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1899] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1900] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1901] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1902] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1903] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1904] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1905] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1906] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1907] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1908] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1909] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1910] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1911] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1912] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1913] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1914] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1915] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1916] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1917] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1918] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1919] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1920] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1921] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1922] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1923] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1924] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1925] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1926] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1927] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1928] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1929] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1930] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1931] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1932] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1933] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1934] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1935] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1936] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1937] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1938] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1939] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1940] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1941] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1942] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1943] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1944] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1945] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1946] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1947] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1948] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1949] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1950] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1951] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1952] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1953] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1954] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1955] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1956] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1957] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1958] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1959] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1960] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1961] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1962] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1963] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1964] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1965] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1966] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1967] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1968] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1969] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1970] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1971] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1972] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1973] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1974] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1975] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1976] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1977] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1978] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1979] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1980] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1981] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1982] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1983] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1984] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1985] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1986] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1987] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1988] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1989] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1990] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1991] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1992] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1993] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1994] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1995] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 1996] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+[STEP 1997] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v BAB | Bloq:1 | PileSize:5
+[STEP 1998] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v BAB | Bloq:0 | PileSize:5
+[STEP 1999] Pos(41, 5) | RGB(255,255,128) -> J_Clair    | Dir:v TRI | Bloq:1 | PileSize:5
+[STEP 2000] Pos(41, 6) | RGB(175, 98,188) -> NOIR/AUTRE | Dir:v TRI | Bloq:0 | PileSize:5
+FIN DU PROGRAMME (Bloquants: 1, Steps: 2000)

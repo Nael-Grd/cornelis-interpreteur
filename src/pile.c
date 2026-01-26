@@ -4,7 +4,7 @@
 
 struct stack_s {
     int top;
-    elem content[1000];
+    elem content[100000];
 };
 
 
