@@ -1,6 +1,6 @@
 # Cornelis interpreter
 
-## 🇫🇷 Documentation du Projet (english below)
+## *FR* Documentation du Projet (English below)
 
 Le but de ce projet est d'implémenter un interpréteur pour le langage de programmation Cornelis, fortement inspiré du langage [Piet](https://www.dangermouse.net/esoteric/piet.html).
 En Cornelis comme en Piet, les programmes sont donnés sous la forme d'image en deux dimensions.
@@ -60,7 +60,7 @@ Toutes les commandes s'exécutent depuis le répertoire racine du projet.
 
 ---
 
-## 🇺🇸 Project Documentation 
+## *ENG* Project Documentation 
 The goal of this project is to implement an interpreter for the Cornelis programming language, which is heavily inspired by the [Piet](https://www.dangermouse.net/esoteric/piet.html) language.
 In Cornelis, as in Piet, programs are given in the form of two-dimensional images.
 
